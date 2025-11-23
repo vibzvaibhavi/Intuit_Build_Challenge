@@ -1,4 +1,4 @@
-#  Intuit Build Challenge Portfolio
+#  Intuit Build Challenge 
 
 **Technology Stack:** **Java** • **Maven** • **JUnit** • **SQLite** • **Concurrency** • **Streams**
 
