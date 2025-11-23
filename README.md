@@ -1,4 +1,4 @@
-# 🚀 Intuit Build Challenge Portfolio
+#  Intuit Build Challenge Portfolio
 
 **Technology Stack:** **Java** • **Maven** • **JUnit** • **SQLite** • **Concurrency** • **Streams**
 
@@ -6,7 +6,7 @@ This repository contains solutions for the Intuit Build Challenge assignments, d
 
 ---
 
-## 💻 Assignment 1 – Producer–Consumer Pattern 
+##  Assignment 1 – Producer–Consumer Pattern 
 
 ### Overview
 This assignment implements the classic **Producer–Consumer** synchronization pattern, demonstrating **concurrency**, **thread communication**, and controlled data flow between two independent components.
@@ -25,7 +25,7 @@ Two distinct implementations are provided to fully satisfy concurrency requireme
 
 Both versions use a **poison pill** (orderId = -1) to terminate gracefully.
 
-### ✨ Key Features
+###  Key Features
 1.  **Bounded Blocking Buffer (Two Implementations)**
     * Custom one-slot buffer using `wait`/`notify`.
     * Java `LinkedBlockingQueue` version with built-in blocking.
@@ -69,12 +69,12 @@ This version uses Java’s built-in `LinkedBlockingQueue<OrderEntity>` to handle
 
 ---
 
-## 📈 Assignment 2 – Sales Analytics 
+##  Assignment 2 – Sales Analytics 
 
 ### Overview
 This assignment reads sales data from a **CSV** file and performs multiple analytical operations using **Java Streams**, **functional programming**, and immutable POJO design.
 
-### 🌟 Features & Highlights
+###  Features & Highlights
 1.  **Strongly Typed Immutable POJO**
     * The `SalesRecord` POJO is designed for immutability and contains fields like Order ID, Customer, Region, Product, Quantity, Unit Price, and Date.
 2.  **Advanced SalesAnalyzer Using Streams**
@@ -101,7 +101,7 @@ This assignment reads sales data from a **CSV** file and performs multiple analy
 
 ---
 
-## 🛠️ Complete Tech Stack
+##  Complete Tech Stack
 
 * **Language:** Java 17
 * **Build Tool:** Maven
@@ -113,7 +113,7 @@ This assignment reads sales data from a **CSV** file and performs multiple analy
 
 ---
 
-## 👤 Author
+##  Author
 
 **Vaibhavi Rachamalla**
 * **GitHub:** https://github.com/vibzvaibhavi
